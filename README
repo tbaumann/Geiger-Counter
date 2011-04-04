@@ -15,4 +15,4 @@ Possible features:
 * USB serial with Bus powered option
 * rfm12 radio header
 
-PCM layout will be done with gEDA opensource ppcb layout tools.
+PCM layout will be done with gEDA opensource pcb layout tools.
