@@ -9,6 +9,10 @@ It will have additional features:
 * Digitally adjustable tube voltage
 * Microcontroller
 * Generic Microcontroller outputs for extensiosn like displays and buttons
+* Batery power with boost DC/DC converter
 
+Possible features:
+* USB serial with Bus powered option
+* rfm12 radio header
 
 PCM layout will be done with gEDA opensource ppcb layout tools.
