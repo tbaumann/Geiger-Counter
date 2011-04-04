@@ -1,0 +1,14 @@
+Recent events re-ignited my interest in radiation meassurement.
+As it turns out, Geiger Counters are very simple devices and seem a very suitable for a beginners electronic project.
+
+This project will be based on this schema kindly provided by Elektro magazine free od charge.
+ressources/GMzaehler-Elektor2006.pdf
+
+It will have additional features:
+* Beep/Click switchable.
+* Digitally adjustable tube voltage
+* Microcontroller
+* Generic Microcontroller outputs for extensiosn like displays and buttons
+
+
+PCM layout will be done with gEDA opensource ppcb layout tools.
